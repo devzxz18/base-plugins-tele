@@ -1,8 +1,14 @@
-# Bot Telegram
+# Base Bot Plugins
 
-Script ini di-upload via Acode.
+## ⚙️ Cara Install
+Salin perintah di bawah ini ke terminal:
 
-## Cara Pakai
-1. Edit `config.js` isi dengan Token Bot kamu.
-2. Install module: `npm install`
-3. Jalankan: `npm start`
+```bash
+git clone https://github.com/devzxz18/base-plugins-tele
+cd base-plugins-tele
+npm install
+npm start
+```
+
+## 📝 Catatan
+Wajib edit **config.js** (isi token & owner) sebelum run bot.
